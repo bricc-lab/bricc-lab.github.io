@@ -3,10 +3,7 @@
 <div class="well" style="background-color: #222222">
 <h2>Sponsors</h2>
 
-{% for article in site.data.news limit:9 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/afrl-1.jpg" style="width: 150px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf-1.jpg" style="width: 100px">
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allsponsors.html">... see all News</a></h4>
-
-    </div>
+</div>
