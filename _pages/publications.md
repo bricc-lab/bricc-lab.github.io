@@ -1,7 +1,7 @@
 ---
-title: "NCL@MICS - Publications"
+title: "BRICC@MICS Publications"
 layout: gridlay
-excerpt: "Publications."
+excerpt: "BRICC@MICS Publications."
 sitemap: false
 permalink: /publications/
 ---

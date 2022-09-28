@@ -1,7 +1,7 @@
 ---
-title: "NCL@MICS About the website"
+title: "BRICC@MICS About the website"
 layout: textlay
-excerpt: "About the website."
+excerpt: "BRICC@MICS About the website."
 sitemap: false
 permalink: /aboutwebsite.html
 ---

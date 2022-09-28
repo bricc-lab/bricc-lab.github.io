@@ -1,7 +1,7 @@
 ---
-title: "Sponsors"
+title: "SBRICC@MICS Sponsors"
 layout: textlay
-excerpt: "NCL@MICS Sponsors."
+excerpt: "BRICC@MICS Sponsors."
 sitemap: false
 permalink: /allsponsors.html
 ---

@@ -1,7 +1,7 @@
 ---
-title: "NCL@MICS - Research"
+title: "BRICC@MICS Research"
 layout: textlay
-excerpt: "Research"
+excerpt: "BRICC@MICS Research."
 sitemap: false
 permalink: /research/
 ---

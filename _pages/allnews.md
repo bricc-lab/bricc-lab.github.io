@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "BRICC@MICS News"
 layout: textlay
-excerpt: "NCL@MICS News."
+excerpt: "BRICC@MICS News."
 sitemap: false
 permalink: /allnews.html
 ---

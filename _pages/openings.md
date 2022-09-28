@@ -1,7 +1,7 @@
 ---
-title: "NCL@MICS - Vacancies"
+title: "BRICC@MICS Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "BRICC@MICS Vacancies."
 sitemap: false
 permalink: /vacancies
 ---

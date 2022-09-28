@@ -1,7 +1,7 @@
 ---
-title: "NCL@MICS - Pictures"
+title: "BRICC@MICS Pictures"
 layout: piclay
-excerpt: "Pictures"
+excerpt: "BRICC@MICS Pictures."
 permalink: /pictures/
 ---
 

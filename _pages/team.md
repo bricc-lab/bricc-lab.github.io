@@ -1,7 +1,7 @@
 ---
-title: "NCL@MICS - Team"
+title: "BRICC@MICS Team"
 layout: gridlay
-excerpt: "Team members"
+excerpt: "BRICC@MICS Team."
 sitemap: false
 permalink: /team/
 ---
