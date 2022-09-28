@@ -66,8 +66,6 @@ robustness of Spiking Neural Networks!
   </a>
 </div>
 
-
-
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
