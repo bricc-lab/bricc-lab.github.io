@@ -1,0 +1,17 @@
+- name: Ramashish Gaurav
+  photo: rgaurav.jpg
+  info: PhD, Jan 2022 - Present
+  email: rgaurav@vt.edu
+  personal_site: https://www.mics.ece.vt.edu/People/Graduate/ramashish_gaurav.html
+  number_educ: 2
+  education1: MASc in Systems Design Engineering at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada
+  education2: Integrated Dual Degree (BTech + MTech) in Computer Science & Engineering at the <a href="https://iitbhu.ac.in/">Indian Institute of Technology - BHU</a>, Varanasi, India
+
+- name: Chunxiao Lin
+  photo: clin.png
+  info: PhD, Fall 2021 - Present
+  email: chunxiao@vt.edu
+  personal_site: https://www.mics.ece.vt.edu/People/Graduate/Chunxiao_Lin.html
+  number_educ: 2
+  education1: MS in Electrical Engineering at the <a href="https://www.usc.edu/">University of Southern California</a>, Los Angeles, United States
+  education2: BS in Electrical Engineering at the <a href="http://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China

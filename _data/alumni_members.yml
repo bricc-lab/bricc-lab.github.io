@@ -1,0 +1,20 @@
+- name: F1 L1
+  photo: verdoes.jpg
+  duration: 2015 - 2018
+  info: Fine mechanical engineer
+  email: f1l1
+  number_educ: 1
+  education1: XYZ
+  education2:
+  education3:
+  education4:
+
+- name: F2 L2
+  photo: irene.jpg
+  info: PhD student
+  duration: 2015 to June 2019
+  email: f2l2
+  number_educ: 3
+  education1: XYZ
+  education2:
+  education3:
