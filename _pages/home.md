@@ -11,7 +11,7 @@ Welcome and thank you for stopping by the BRICC Lab!
 
 We are one of a kind lab which conducts _joint_ research in the software and
 hardware domains of brain-inspired computing - aka Neuromorphic Computing, with
-applications geared towards Communications and more! We develop spiking algorithms
+applications geared towards communications and more! We develop spiking algorithms
 and neuromorphic hardware-architectures which harvest the energy efficiency and
 robustness of Spiking Neural Networks!
 
