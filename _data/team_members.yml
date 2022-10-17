@@ -1,6 +1,32 @@
+- name: Khalil Sedk
+  photo: khalil.jpeg
+  info: PhD, Fall 2022 - Present
+  email: ksedki@vt.edu
+  personal_site: #
+  number_educ: 2
+  education1: MS in Electrical Engineering at the <a href="https://www.iit.edu/">Illinois Institute of Technology (Illinois Tech)</a>, Chicago, United States
+  education2: BS in Electrical Engineering at the <a href="https://www.iit.edu/">Illinois Institute of Technology (Illinois Tech)</a>, Chicago, United States
+
+
+- name: Muhammad Farhan Azmine
+  photo: azmine.jpeg
+  info: PhD, Fall 2022 - Present
+  email: muhammadfarhan@vt.edu
+  personal_site: #
+  number_educ: 1
+  education1: BS in Electrical and Electronics Engineering at the <a href="https://www.buet.ac.bd/web/">Bangladesh University of Engineering and Technology</a>, Bangladesh
+
+- name: Sanchit Sethi
+  photo: sanchit.jpg
+  info: PhD, Fall 2022 - Present
+  email: sanchitsethi@vt.edu
+  personal_site: #
+  number_educ: 1
+  education1: BS in <a href="https://auburn.edu/">Computer Engineering</a> at the Auburn University, Alabama, United States
+
 - name: Ramashish Gaurav
   photo: rgaurav.jpg
-  info: PhD, Jan 2022 - Present
+  info: PhD, Spring 2022 - Present
   email: rgaurav@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/ramashish_gaurav.html
   number_educ: 2
@@ -15,3 +41,47 @@
   number_educ: 2
   education1: MS in Electrical Engineering at the <a href="https://www.usc.edu/">University of Southern California</a>, Los Angeles, United States
   education2: BS in Electrical Engineering at the <a href="http://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China
+
+- name: Fabiha Nowshin
+  photo: fabiha.JPG
+  info: PhD, Summer 2021 - Present
+  email: fabiha27@vt.edu
+  personal_site: https://www.mics.ece.vt.edu/People/Graduate/Fabiha_Nowshin.html
+  number_educ: 2
+  education1: MS in Electrical Engineering at the <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
+  education2: BS in Electrical Engineering at the <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
+
+- name: Honghao Zheng
+  photo: hzheng.jpeg
+  info: PhD, Fall 2020 - Present
+  email: zhenghh@vt.edu
+  personal_site: https://www.mics.ece.vt.edu/People/Graduate/honghao_zheng.html
+  number_educ: 2
+  education1: MS in Electrical Engineering at the <a href="https://www.bu.edu/">Boston University</a>, MA, United States
+  education2: BS in Electrical Engineering at the <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a>, Dalian, China
+
+- name: Nima Mohammadi
+  photo: nima.jpeg
+  info: PhD, Fall 2020 - Present
+  email: nimamo@vt.edu
+  personal_site: https://www.mics.ece.vt.edu/People/Graduate/Nima_Mohammadi.html
+  number_educ: 2
+  education1: M.Sc. in Computer Science at the University of Tehran, Tehran, Iran
+  education2: B.Sc. in Computer Engineering at the SRTTU, Tehran, Iran
+
+- name: Yibin Liang
+  photo: yibin.jpeg
+  info: PhD, Fall 2019 - Present
+  email: yibin@vt.edu
+  personal_site: https://www.mics.ece.vt.edu/People/Graduate/yibin-liang.html
+  number_educ: 1
+  education1: MS in Electrical and Computer Engineering at the <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
+
+- name: Shiya Liu
+  photo: shiya.JPG
+  info: PhD (Part time), Spring 2019 - Present
+  email: shiyal@vt.edu
+  personal_site: https://www.mics.ece.vt.edu/People/Graduate/Shiya_Liu.html
+  number_educ: 2
+  education1: MS in Electrical Engineering at the <a href="https://www.iastate.edu/">Iowa State University</a>, Ames, IA, United States
+  education2: BS in Electrical Engineering at the <a href="https://www.iastate.edu/">Iowa State University</a>, Ames, IA, United States
