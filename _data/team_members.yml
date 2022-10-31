@@ -1,11 +1,19 @@
-- name: Khalil Sedk
+- name: Md Rubel Sarkar
+  photo: rubel.jpeg
+  info: PhD, Fall 2022 - Present
+  email: rubel@vt.edu
+  personal_site: #
+  number_educ: 1
+  education1: BS, Electrical and Electronic Engineering <font color="orange">||</font> <a href="https://www.aust.edu/">Ahsanullah University of Science and Technology</a>, Dhaka, Bangladesh
+
+- name: Khalil Sedki
   photo: khalil.jpeg
   info: PhD, Fall 2022 - Present
   email: ksedki@vt.edu
   personal_site: #
   number_educ: 2
-  education1: MS in Electrical Engineering at the <a href="https://www.iit.edu/">Illinois Institute of Technology (Illinois Tech)</a>, Chicago, United States
-  education2: BS in Electrical Engineering at the <a href="https://www.iit.edu/">Illinois Institute of Technology (Illinois Tech)</a>, Chicago, United States
+  education1: MS, Electrical Engineering <font color="orange">||</font> <a href="https://www.iit.edu/">Illinois Institute of Technology (Illinois Tech)</a>, Chicago, United States
+  education2: BS, Electrical Engineering <font color="orange">||</font> <a href="https://www.iit.edu/">Illinois Institute of Technology (Illinois Tech)</a>, Chicago, United States
 
 
 - name: Muhammad Farhan Azmine
@@ -14,7 +22,7 @@
   email: muhammadfarhan@vt.edu
   personal_site: #
   number_educ: 1
-  education1: BS in Electrical and Electronics Engineering at the <a href="https://www.buet.ac.bd/web/">Bangladesh University of Engineering and Technology</a>, Bangladesh
+  education1: BS, Electrical and Electronics Engineering <font color="orange">||</font> <a href="https://www.buet.ac.bd/web/">Bangladesh University of Engineering and Technology</a>, Bangladesh
 
 - name: Sanchit Sethi
   photo: sanchit.jpg
@@ -22,7 +30,7 @@
   email: sanchitsethi@vt.edu
   personal_site: #
   number_educ: 1
-  education1: BS in <a href="https://auburn.edu/">Computer Engineering</a> at the Auburn University, Alabama, United States
+  education1: BS, Computer Engineering <font color="orange">||</font> <a href="https://auburn.edu/">Auburn University</a>, Alabama, United States
 
 - name: Ramashish Gaurav
   photo: rgaurav.jpg
@@ -30,8 +38,8 @@
   email: rgaurav@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/ramashish_gaurav.html
   number_educ: 2
-  education1: MASc in Systems Design Engineering at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada
-  education2: Integrated Dual Degree (BTech + MTech) in Computer Science & Engineering at the <a href="https://iitbhu.ac.in/">Indian Institute of Technology - BHU</a>, Varanasi, India
+  education1: MASc, Systems Design Engineering <font color="orange">||</font> <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada
+  education2: Integrated Dual Degree (BTech + MTech), Computer Science & Engineering <font color="orange">||</font> <a href="https://iitbhu.ac.in/">Indian Institute of Technology - BHU</a>, Varanasi, India
 
 - name: Chunxiao Lin
   photo: clin.png
@@ -39,8 +47,8 @@
   email: chunxiao@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/Chunxiao_Lin.html
   number_educ: 2
-  education1: MS in Electrical Engineering at the <a href="https://www.usc.edu/">University of Southern California</a>, Los Angeles, United States
-  education2: BS in Electrical Engineering at the <a href="http://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China
+  education1: MS, Electrical Engineering <font color="orange">||</font> <a href="https://www.usc.edu/">University of Southern California</a>, Los Angeles, United States
+  education2: BS, Electrical Engineering <font color="orange">||</font> <a href="http://english.hust.edu.cn/">Huazhong University of Science and Technology</a>, Wuhan, China
 
 - name: Fabiha Nowshin
   photo: fabiha.JPG
@@ -48,8 +56,8 @@
   email: fabiha27@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/Fabiha_Nowshin.html
   number_educ: 2
-  education1: MS in Electrical Engineering at the <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
-  education2: BS in Electrical Engineering at the <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
+  education1: MS, Electrical Engineering <font color="orange">||</font> <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
+  education2: BS, Electrical Engineering <font color="orange">||</font> <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
 
 - name: Honghao Zheng
   photo: hzheng.jpeg
@@ -57,8 +65,8 @@
   email: zhenghh@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/honghao_zheng.html
   number_educ: 2
-  education1: MS in Electrical Engineering at the <a href="https://www.bu.edu/">Boston University</a>, MA, United States
-  education2: BS in Electrical Engineering at the <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a>, Dalian, China
+  education1: MS, Electrical Engineering <font color="orange">||</font> <a href="https://www.bu.edu/">Boston University</a>, MA, United States
+  education2: BS, Electrical Engineering <font color="orange">||</font> <a href="https://en.dlut.edu.cn/">Dalian University of Technology</a>, Dalian, China
 
 - name: Nima Mohammadi
   photo: nima.jpeg
@@ -66,8 +74,8 @@
   email: nimamo@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/Nima_Mohammadi.html
   number_educ: 2
-  education1: M.Sc. in Computer Science at the University of Tehran, Tehran, Iran
-  education2: B.Sc. in Computer Engineering at the SRTTU, Tehran, Iran
+  education1: MSc, Computer Science <font color="orange">||</font> University of Tehran, Tehran, Iran
+  education2: BSc, Computer Engineering <font color="orange">||</font> SRTTU, Tehran, Iran
 
 - name: Yibin Liang
   photo: yibin.jpeg
@@ -75,7 +83,7 @@
   email: yibin@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/yibin-liang.html
   number_educ: 1
-  education1: MS in Electrical and Computer Engineering at the <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
+  education1: MS, Electrical and Computer Engineering <font color="orange">||</font> <a href="https://www.vt.edu/">Virginia Tech</a>, Blacksburg, United States
 
 - name: Shiya Liu
   photo: shiya.JPG
@@ -83,5 +91,5 @@
   email: shiyal@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/Shiya_Liu.html
   number_educ: 2
-  education1: MS in Electrical Engineering at the <a href="https://www.iastate.edu/">Iowa State University</a>, Ames, IA, United States
-  education2: BS in Electrical Engineering at the <a href="https://www.iastate.edu/">Iowa State University</a>, Ames, IA, United States
+  education1: MS, Electrical Engineering <font color="orange">||</font> <a href="https://www.iastate.edu/">Iowa State University</a>, Ames, IA, United States
+  education2: BS, Electrical Engineering <font color="orange">||</font> <a href="https://www.iastate.edu/">Iowa State University</a>, Ames, IA, United States

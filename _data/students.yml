@@ -4,15 +4,15 @@
   email: gauri021@vt.edu
   personal_site: #
   number_educ: 1
-  education1: BTech in Electrical Engineering at the <a href="https://pec.ac.in/">Punjab Engineering College</a>, Punjab, India
+  education1: BTech, Electrical Engineering <font color="orange">||</font> <a href="https://pec.ac.in/">Punjab Engineering College</a>, Punjab, India
 
 - name: Lyle Smith
   photo: lyle.png
   info: MS, Fall 2022 - Present
   email: lsmithiv@vt.edu
-  personal_site: #
+  personal_site: https://www.mics.ece.vt.edu/People/Graduate/LyleBio.html
   number_educ: 1
-  education1: BS Engineering (Computing option) at the <a href="https://www.bryan.edu/">Bryan College</a>, Dayton, TN, United States
+  education1: BS, Engineering (Computing option) <font color="orange">||</font> <a href="https://www.bryan.edu/">Bryan College</a>, Dayton, TN, United States
 
 - name: Shrestha C. Agarwal
   photo: shrestha.jpg
@@ -20,7 +20,7 @@
   email: shresthaf1@vt.edu
   personal_site: #
   number_educ: 1
-  education1: BTech in Electronics Engineering at the <a href="https://www.spit.ac.in/">Sardar Patel Institute of Technology</a>, Maharashtra, India
+  education1: BTech, Electronics Engineering <font color="orange">||</font> <a href="https://www.spit.ac.in/">Sardar Patel Institute of Technology</a>, Maharashtra, India
 
 
 - name: Spoorthi Airody Suresh
@@ -29,4 +29,4 @@
   email: spoorthi@vt.edu
   personal_site: https://www.mics.ece.vt.edu/People/Graduate/Spoorthi_Airody_Suresh.html
   number_educ: 1
-  education1: BEngg in Electrical and Electronics at the <a href="https://vtu.ac.in/">Visvesvaraya Technological University</a>, Karnataka, India
+  education1: BEngg, Electrical and Electronics <font color="orange">||</font> <a href="https://vtu.ac.in/">Visvesvaraya Technological University</a>, Karnataka, India

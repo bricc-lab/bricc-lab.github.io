@@ -8,17 +8,19 @@ permalink: /team/
 
 # Group Members
 
-[//]: <> **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+[//]: <> **We are looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Faculty](#faculty), [Current PhD Students](#current-phd-students), [Current MS Students](#current-ms-students), [Virginia Tech Interested Students](#virginia-tech-interested-students), [Alumni](#alumni).
+
+---
 
 ## Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><a href="{{member.personal_site}}">{{ member.name }}</a></h4>
   <i>{{ member.info }} <br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
   <li> {{ member.education1 }} </li>
@@ -29,6 +31,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 {% endfor %}
+
+---
 
 ## Current PhD Students
 {% assign number_printed = 0 %}
@@ -92,6 +96,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+---
+
 ## Current MS Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -104,7 +110,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><a href="{{member.personal_site}}">{{ member.name }}</a></h4>
   <i>{{ member.info }}  <br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
@@ -146,6 +152,20 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+---
+
+## Virginia Tech Interested Students
+
+<span style="color:white">Currently a Virginia Tech student and interested in getting involved with BRICC@MICS?</span>
+
+Our group hosts weekly interest group meetings to learn about research conducted
+by the current students, in addition to discussing other research domains in the
+Brain-Inspired Computing field. Undergraduate students also have the opportunity
+to get involved with projects that may count for their course credits. Please reach
+out to <a href="mailto:yangyi8@vt.edu">Dr. Yang (Cindy) Yi</a> for more information
+on how to join!
+
+---
 
 ## Alumni
 
@@ -180,6 +200,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+---
+
+<!--
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
@@ -205,3 +228,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
+-->
