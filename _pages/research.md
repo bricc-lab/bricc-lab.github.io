@@ -96,6 +96,8 @@ Computing</span>, as well as in-memory computing architectures.
 
 ### Algorithms for Spiking Neural Networks and Loihi
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/snn1.png){: style="width: 350px; float: left; margin: 10px 10px"}
+
 One of crucial aspects of information processing in our brain is the generation
 and transmission of action potentials, a.k.a. spikes.
 <span style="color:white">Spiking Neural Networks (SNNs)</span> are the next
@@ -103,6 +105,8 @@ generation Neural Networks which employ spiking neurons to accomplish general
 AI tasks. Unlike the Artificial Neural Networks (ANNs), they are inherently
 temporal in nature, with few works advocating SNNs to be more robust and
 potentially more powerful than ANNs!
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/snn2.png){: style="width: 350px; float: right; margin: 10px 10px"}
 
 So far, in our attempts to develop brain-like AI, we have been working with the
 conventional ANNs for long (since the start of 1940s), which are composed of
