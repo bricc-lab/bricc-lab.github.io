@@ -37,7 +37,7 @@ encoding schemes need to be carefully investigated. Such an encoding scheme refe
 to converting the information of input stimuli into a set of spike trains, which
 the downstream units can process.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/enc2.jpeg){: style="width: 400px; float: left; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/enc2.jpeg){: style="width: 400px; float: left; margin: 10px 10px"}
 
 The research about encoding schemes started a few decades ago. There are two main
 kinds of encoding schemes, <span style="color:white">Rate Encoding</span> and
@@ -54,7 +54,7 @@ time of the spikes. Two different types of temporal encoding are commonly
 investigated, the <span style="color:white">Time-to-First-Spike (TTFS)</span>
 encoding and the <span style="color:white">Interspike-Interval (ISI)</span> encoding.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/enc3.png){: style="width: 500px; float: right; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/enc3.png){: style="width: 500px; float: right; margin: 10px 10px"}
 
 With the progress of large-scale data processing applications, the demand for
 higher data processing capacity becomes increasingly intense. Researchers have
@@ -145,9 +145,9 @@ may not scale well with massive <span style="color:white">MIMO antenna systems</
 and have model mismatch problems in real-world environments. Furthermore, their
 high complexity hinders power efficiency for mobile and IoT applications.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/comm2.jpg){: style="width: 250px; float: left; margin: 0px 10px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/comm2.jpg){: style="width: 250px; float: left; margin: 10px 10px 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/comm3.jpg){: style="width: 250px; float: left; margin: 0px 10px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/comm3.jpg){: style="width: 250px; float: left; margin: 10px 10px 10px"}
 
 We have adopted <span style="color:white">Echo State Networks (ESN)</span> and
 demonstrated their superior performance in a real-time
@@ -159,7 +159,7 @@ techniques for applications in wireless systems.
 
 ### Neuromorphic Computing and FPGA
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/nfpga1.jpg){: style="width: 400px; float: right; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/nfpga1.jpg){: style="width: 400px; float: right; margin: 10px 10px"}
 
 Neuromorphic Computing is based on the <span style="color:white">non-von Newman</span>
 architecture, which breaks the memory bottleneck of the traditional computing chips
@@ -168,9 +168,9 @@ to achieve low-power, low-cost, and low-latency design.
 on the hardware implementations of neuromorphic computing systems and architectures
 on FPGA and the associated optimizations on it.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/nfpga2.jpg){: style="width: 250px; float: left; margin: 0px 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/nfpga2.jpg){: style="width: 250px; float: left; margin: 10px 0px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/nfpga3.png){: style="width: 275px; float: left; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/nfpga3.png){: style="width: 275px; float: left; margin: 10px 10px"}
 
 Due to the novel architecture of neuromorphic computing, it has better computation
 efficiency on temporal tasks than traditional Neural Networks such as Recurrent
