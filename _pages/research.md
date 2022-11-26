@@ -63,11 +63,13 @@ capacity in biological neural systems, called the
 <span style="color:green">Multiplexing Encoding</span> scheme. Besides better
 encoding capability, multiplexing encoding has some other advantages as well.
 This scheme is more stable and robust with an
-internal reference frame than other encoding schemes, especially in the noisy
-environments. Our group has designed and analyzed the first ISI temporal encoder
-and the multiplexing temporal encoder (to the best of our knowledge). These encoder
-designs have achieved both - a high training/inference accuracy and extremely high
-power efficiency with reasonable design area.
+internal reference frame, than other encoding schemes, especially in the noisy
+environments. Our group has designed and analyzed the first
+<span style="color:green">Application-Specific Integrated Circuit (ASIC)</span>
+chip of the ISI temporal encoder and the multiplexing temporal encoder (to the
+best of our knowledge). These encoder designs have achieved both - a high
+training/inference accuracy and extremely high power efficiency with reasonable
+design area.
 
 ### <u>Memristors-based Neuromorphic Computing</u>
 

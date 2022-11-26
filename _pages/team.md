@@ -156,7 +156,7 @@ Jump to [Faculty](#faculty), [Current PhD Students](#current-phd-students), [Cur
 
 ## Virginia Tech Interested Students
 
-<span style="color:white">Currently a Virginia Tech student and interested in getting involved with BRICC@MICS?</span>
+<span style="color:green">Currently a Virginia Tech student and interested in getting involved with BRICC@MICS?</span>
 
 Our group hosts weekly interest group meetings to learn about research conducted
 by the current students, in addition to discussing other research domains in the
